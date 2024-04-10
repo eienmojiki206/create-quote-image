@@ -1,5 +1,5 @@
 {
-  "name": "cqi",
+  "name": "cqimg",
   "version": "4.1.1",
   "description": "Transform words into captivating visuals with our GitHub repository! Easily generate quote images.",
   "main": "dist/index.js",
