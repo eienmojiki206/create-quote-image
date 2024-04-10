@@ -1,4 +1,5 @@
 const colors = [
+  { textColor: '#FFFFFF', background: '#121212', authorColor: '#FAFA33' },
   { textColor: '#FFFFFF', background: '#300A24', authorColor: '#FFFF55' },
   { textColor: '#FFFFFF', background: '#083045', authorColor: '#EED369' },
   { textColor: '#FFFFFF', background: '#0C0C0C', authorColor: '#58C1C1' },
