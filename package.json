@@ -1,6 +1,6 @@
 {
   "name": "cqimg",
-  "version": "4.1.1",
+  "version": "4.1.4",
   "description": "Transform words into captivating visuals with our GitHub repository! Easily generate quote images.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

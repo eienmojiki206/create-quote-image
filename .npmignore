@@ -9,10 +9,12 @@
 .lock-wscript
 .svn
 .wafpickle-*
+.replit
+replit.*
 config.gypi
 CVS
 npm-debug.log
-
+.cache/
 # src
 src
 assets

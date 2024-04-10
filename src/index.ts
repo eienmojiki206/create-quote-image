@@ -29,7 +29,7 @@ export default async function createQuoteImage(
             body {
                 font-family: 'Source Code Pro', sans-serif;
                 width: 1600px;
-                height: 9000px;
+                height: 900px;
                 display: flex;
                 flex-direction: column;
                 justify-content: space-between;
